@@ -20,5 +20,5 @@ def split_pdf(input_pdf, num_files):
 
 # Example usage
 input_pdf = 'GPO-J6-REPORT.pdf'
-num_files = 5  # Specify the number of smaller PDFs you want
+num_files = 10  # Specify the number of smaller PDFs you want
 split_pdf(input_pdf, num_files)
